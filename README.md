@@ -1,4 +1,12 @@
 ## pouchdb-wrapper
 
 <hr/>
-Note This page is generated based on the markdown-syntax. For details see <http://daringfireball.net/projects/markdown/syntax/>
+PouchDB wrapper for usage in cubbles.
+
+***
+
+Origin Library:
+
+>PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
+
+See: [pouchDB](https://pouchdb.com/)
